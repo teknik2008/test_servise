@@ -9,7 +9,7 @@ const scene = [{
   }, {
     scene_id: 2,
     host_id: [1, 2],
-    name: 'Лиды',
+    name: 'lead',
     parallel: 1,
     delay: 1,
     count: 1,
