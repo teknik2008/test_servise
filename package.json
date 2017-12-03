@@ -1,0 +1,42 @@
+{
+  "name": "test_servise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teknik2008/test_servise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teknik2008/test_servise/issues"
+  },
+  "homepage": "https://github.com/teknik2008/test_servise#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "busboy-promise": "0.0.3",
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-cors": "0.0.16",
+    "koa-router": "^7.3.0",
+    "koa-socket-2": "^1.0.14",
+    "koa-socket.io": "^1.1.2",
+    "koa-static": "^4.0.2"
+  },
+  "devDependencies": {
+    "babel-plugin-syntax-async-functions": "^6.8.0",
+    "babel-plugin-transform-async-to-generator": "^6.8.0",
+    "babel-preset-es2015-node5": "^1.1.2",
+    "babel-preset-stage-0": "^6.3.13",
+    "babel-preset-typescript": "^7.0.0-alpha.19",
+    "babel-register": "^6.4.3",
+    "mocha": "^2.3.4",
+    "nodemon": "^1.8.1",
+    "should": "^8.2.0",
+    "supertest": "^1.1.0"
+  }
+}
